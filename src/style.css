@@ -129,12 +129,10 @@ li {
     }
 }
 
-
 .web3-image {
-    height: 100%;
-    width: 100%;
+    min-height: 100%;
+    max-width: 100%;
 }
-
 
 .main-article-title {
     width: 100%;
